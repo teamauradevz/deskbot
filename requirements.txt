@@ -1,0 +1,10 @@
+sounddevice
+numpy
+pvporcupine
+python-dotenv
+vosk
+llama-cpp-python
+opencv-python
+deepface
+fastapi
+uvicorn
